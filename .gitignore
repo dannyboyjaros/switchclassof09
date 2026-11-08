@@ -1,0 +1,19 @@
+# Build output
+build/
+*.nro
+*.elf
+*.nacp
+*.map
+*.o
+*.d
+
+# Release packages
+dist/
+*.zip
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
